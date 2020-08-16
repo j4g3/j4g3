@@ -1,6 +1,8 @@
 ### Opa, meu nome é João Guilherme
 Sou apenas um jovem programador
 
+<img src="https://github-readme-stats.vercel.app/api?username=j4g3&show_icons=true" alt="j4g3"/>
+
 <!--
 **j4g3/j4g3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
