@@ -1,6 +1,7 @@
 ### Opa, meu nome é João Guilherme
-Sou apenas um jovem programador
+apenas um jovem programador
 
+<a href="https://app.daily.dev/j4g3dev"><img src="https://api.daily.dev/devcards/b3e31528609a4accadfba71dd35c3b66.png?r=rcz" width="400" alt="João Oliveira's Dev Card"/></a>
 <img src="https://github-readme-stats.vercel.app/api?username=j4g3&show_icons=true" alt="j4g3"/>
 
 <!--
